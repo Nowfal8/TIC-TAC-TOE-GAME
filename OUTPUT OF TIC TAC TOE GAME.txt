@@ -1,0 +1,56 @@
+TIC TAC TOE
+Player 1: X | Player 2: O
+
+  0   1   2
+0   |   |   
+ ---+---+---
+1   |   |   
+ ---+---+---
+2   |   |   
+
+Player X, enter your move (row and column): 0 0
+
+  0   1   2
+0 X |   |   
+ ---+---+---
+1   |   |   
+ ---+---+---
+2   |   |   
+
+Player O, enter your move (row and column): 1 1
+
+  0   1   2
+0 X |   |   
+ ---+---+---
+1   | O |   
+ ---+---+---
+2   |   |   
+
+Player X, enter your move (row and column): 0 2
+
+  0   1   2
+0 X |   | X 
+ ---+---+---
+1   | O |   
+ ---+---+---
+2   |   |   
+
+Player O, enter your move (row and column): 1 0
+
+  0   1   2
+0 X |   | X 
+ ---+---+---
+1 O | O |   
+ ---+---+---
+2   |   |   
+
+Player X, enter your move (row and column): 0 1
+
+  0   1   2
+0 X | X | X 
+ ---+---+---
+1 O | O |   
+ ---+---+---
+2   |   |   
+
+Player X wins!
